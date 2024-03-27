@@ -684,7 +684,7 @@ nav>.div_nav>ul>li {
 }
 
 .s3_nen {
-    width: 100%;
+    width: calc(100% - 60px);
     height: 100%;
     background-color: #0791BE;
     /* position: absolute; */
